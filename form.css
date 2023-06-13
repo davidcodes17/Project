@@ -20,6 +20,7 @@
 .sides{
     margin-top: 10px;
     display: flex;
+    gap: 70px;
     justify-content: space-between;
 }
 .main-text{
