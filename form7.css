@@ -38,3 +38,14 @@ a{
     text-decoration: none;
     color: #000;
 }
+@media screen and (max-width:720px) {
+    .container{
+        padding: 20px;
+    }
+    .note{
+        font-size: 15px;
+    }   
+    .next{
+        float: none;
+    }
+}

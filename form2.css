@@ -82,3 +82,19 @@ a{
     float: right;
     cursor: pointer;
 }
+@media screen and (max-width:720px) {
+    .containers{
+        display: block;
+        background: none;
+    }
+    .left-container{
+        display: flex;
+        justify-content: center;
+        padding: 20px ;
+    }
+    .right-container{
+        padding: 20px;
+    }.next{
+        float: none;
+    }
+}

@@ -153,6 +153,7 @@ label{
     }
     .right-container{
         margin-top: 50px;
+        padding: 20px;
     }
     .left-container{
         display: none;
