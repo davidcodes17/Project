@@ -12,20 +12,21 @@
 }
 .note{
     font-weight: bolder;
-    padding: 10px 0px;
+    padding: 5px 0px;
 }
-.quest{
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 10px 0px;
-}
+/* .quest{
+        /* display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 0px; */
+/* } */ 
 .age
 {
     border: 2px solid #000;
+    margin: 10px 0px;
 }
 .next{
-    margin-top: 10px;
+    margin-top: 4px;
     border: none;
     border-radius: 40px;
     background: darkorange;

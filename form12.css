@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+.container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.topic{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px 0px;
+}
+.note{
+    padding: 5px 0px;
+}
+.question{
+    margin: 5px 0px;
+}
+.age{
+    border: 2px solid #000;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.next{
+    float: right;
+    cursor: pointer;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 40px;
+    background: darkorange;
+}

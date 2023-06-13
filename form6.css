@@ -35,6 +35,15 @@
   .text{
       font-size: 18px;
   }
+  .fm{
+    margin-left: 20px;
+  }
+  .dc{
+    margin-left: 3px;
+  }
+  .bm{
+    margin-right: 5px;
+  }
   .next{
       margin-top: 10px;
       border: none;
